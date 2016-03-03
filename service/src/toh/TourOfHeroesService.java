@@ -6,8 +6,8 @@ import java.util.List;
 import io.baratine.service.OnInit;
 import io.baratine.service.Result;
 import io.baratine.service.Service;
-import io.baratine.web.http.Get;
-import io.baratine.web.http.Path;
+import io.baratine.web.Get;
+import io.baratine.web.Path;
 
 /**
  * Service providing a list of Heroes
